@@ -1,7 +1,6 @@
-!!!WARNING!!!
+## WARNING
 -> use linux environment only.
-
-please install {PYTHON 3.x} before using this software
+-> please install {PYTHON 3.x and (JAVA-11 or higher)} beforehand
 
 
 ***** NECESSARY PIP PACKAGES *****
